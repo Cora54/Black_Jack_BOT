@@ -1,0 +1,5 @@
+.cache
+.config
+.upm
+_pycache_
+venv
